@@ -3,7 +3,7 @@ body {
     margin: 0;
     overflow-x: hidden;
     background: transparent;
-    background: url(./IMGS/takeryan_logo_clean.png);
+    background: url(../IMGS/takeryan_logo_clean.png);
     background-size: contain;
 }
 

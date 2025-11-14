@@ -154,6 +154,7 @@ article p {
 #nota-filme p {
     font-size: 3rem;
     font-weight: bold;
+    place-self: center;
 }
 
 /* RESPONSIVO MOBILE */
