@@ -100,7 +100,7 @@ table tr td p.nome-data-movie{
 table tr td p.data {
   color: gray;
   place-self: center;
-
+  
 }
 footer{
     text-align: center;
@@ -115,6 +115,8 @@ footer{
 }
 .saiba-mais{
   color: black;
+  font-weight: bold;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.9);
   text-transform: uppercase;
   background-color: white;
   padding: 0.5rem;
@@ -127,6 +129,7 @@ ul.box-redes-sociais {
     width: 305px;
     float: none;
     margin: auto;
+    place-self: center;
   
   }
   
